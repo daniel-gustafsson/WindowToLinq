@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowToLinq", "WindowToLinq\WindowToLinq.csproj", "{1224DD31-A3E8-4182-AB3F-C5A76CD2B60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowToLinq.Test", "WindowToLinq.Test\WindowToLinq.Test.csproj", "{3B13257D-7142-4BFE-8333-03B0C92F1B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1224DD31-A3E8-4182-AB3F-C5A76CD2B60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1224DD31-A3E8-4182-AB3F-C5A76CD2B60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1224DD31-A3E8-4182-AB3F-C5A76CD2B60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1224DD31-A3E8-4182-AB3F-C5A76CD2B60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B13257D-7142-4BFE-8333-03B0C92F1B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B13257D-7142-4BFE-8333-03B0C92F1B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B13257D-7142-4BFE-8333-03B0C92F1B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B13257D-7142-4BFE-8333-03B0C92F1B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

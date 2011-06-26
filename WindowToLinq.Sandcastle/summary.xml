@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>foo</name>
+    </assembly>
+    <members>
+ <member name="R:Project">
+            <summary>
+            Window To Linq
+            </summary>
+        </member>
+ <member name="N:WindowToLinq">
+            <summary>
+            This namespace contains classes and extension functions for the Window to Linq project.
+            </summary>
+        </member></members>
+</doc>
