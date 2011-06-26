@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Aggregate method" Url="html/fef88c60-bc34-0f07-8bc8-90fc98c97a80.htm" />
+  <HelpKINode Title="Average method" Url="html/e9e92c24-2610-1d79-20f5-da4bbf712425.htm" />
+  <HelpKINode Title="BeginAggregate(Of TSource) method" Url="html/9b62c995-310d-5da7-686c-5f264775a0b5.htm" />
+  <HelpKINode Title="BeginAggregate&lt;TSource&gt; method" Url="html/9b62c995-310d-5da7-686c-5f264775a0b5.htm" />
+  <HelpKINode Title="Capacity property" Url="html/adcc0d01-b5aa-6241-d9ce-77e826dddd4b.htm" />
+  <HelpKINode Title="Clear method" Url="html/80210097-3df2-5397-0034-947816ec7275.htm" />
+  <HelpKINode Title="Compute method" Url="html/28ebbe1a-5130-7ac6-2fbe-2a385e1a4d8c.htm" />
+  <HelpKINode Title="Count method" Url="html/50d0b27d-8d8a-5d01-bc86-2b32468fcfb0.htm" />
+  <HelpKINode Title="Count property" Url="html/21165b3b-e91b-b35c-3e07-609f9274e0b0.htm" />
+  <HelpKINode Title="Current property" Url="html/5cf7b2f3-02a0-b059-e48a-8f51339550fc.htm" />
+  <HelpKINode Title="Dequeue method" Url="html/95cae165-834f-d1a8-32ea-d8492411c7a3.htm" />
+  <HelpKINode Title="Dispose method" Url="html/7d73c511-8d98-f4fb-2a78-dcaacdc8f786.htm" />
+  <HelpKINode Title="Dispose method" Url="html/be7bde13-9c5d-6a6f-ed00-6030a313db71.htm" />
+  <HelpKINode Title="DistanceBefore method" Url="html/21b8c741-e5d9-db05-0b7b-77db2d032137.htm" />
+  <HelpKINode Title="Enqueue method" Url="html/aa1d56a7-cc98-8178-b772-a2befdac911c.htm" />
+  <HelpKINode Title="GetDefault method" Url="html/0873a92c-c0da-b0f4-6759-e8167e8f3bfd.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/138858bb-8d30-21ce-8fdf-99966e70af08.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/4be2507c-808b-3d1b-ff9b-5ebe4fa3f56c.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/c41b8424-ee52-d87a-7752-e73bad0399c6.htm" />
+  <HelpKINode Title="GetEnumerator method" Url="html/fcb9aa00-ceaa-2411-8ff1-dd0d18c2e88e.htm" />
+  <HelpKINode Title="HasSamePositionAs method" Url="html/ac172096-928a-4b66-a212-705e0dc2ad1a.htm" />
+  <HelpKINode Title="IndexAtEnd method" Url="html/d83622e2-f636-ae91-b83a-147f60ab5a81.htm" />
+  <HelpKINode Title="IndexAtFront method" Url="html/e1f17b8f-2e2e-575a-cd0f-41f938efc44b.htm" />
+  <HelpKINode Title="IWindowAggregateFunction(Of TElement, TAggregates).GetEnumerator method" Url="html/138858bb-8d30-21ce-8fdf-99966e70af08.htm" />
+  <HelpKINode Title="IWindowAggregateFunction&lt;TElement, TAggregates&gt;.GetEnumerator method" Url="html/138858bb-8d30-21ce-8fdf-99966e70af08.htm" />
+  <HelpKINode Title="LastOrDefault(Of TSource, TSourceAggregates) method" Url="html/f14a6890-5ee9-5652-bfbd-2bff4bdb36d0.htm" />
+  <HelpKINode Title="LastOrDefault&lt;TSource, TSourceAggregates&gt; method" Url="html/f14a6890-5ee9-5652-bfbd-2bff4bdb36d0.htm" />
+  <HelpKINode Title="LongCount method" Url="html/1442a1d9-deb7-89a3-a0c7-67cf5cffe048.htm" />
+  <HelpKINode Title="Max method" Url="html/e76a82be-998b-a2f3-45dd-9a0c949630e6.htm" />
+  <HelpKINode Title="Min method" Url="html/e7d8dafa-6342-9fc3-fd33-f6e8a4f612f9.htm" />
+  <HelpKINode Title="MoveNext method" Url="html/8e28d4f1-ea72-dacf-622b-9667aef919b6.htm" />
+  <HelpKINode Title="Partition method" Url="html/8ef84425-1a12-5345-d5c7-163c34772092.htm" />
+  <HelpKINode Title="Peek method" Url="html/2e5bec5e-d5c8-7ffc-fea4-59d5827f7aca.htm" />
+  <HelpKINode Title="PeekAt method" Url="html/3802c842-dff7-1110-c24f-d8e6dd1c206d.htm" />
+  <HelpKINode Title="Range method" Url="html/38186253-fc1c-5f41-705f-77ab9c9d2b32.htm" />
+  <HelpKINode Title="Range method" Url="html/b8692e79-393f-3330-426c-08a9208138e4.htm" />
+  <HelpKINode Title="RAQueue(Of T) class" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+  <HelpKINode Title="RAQueue(Of T) class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm" />
+  <HelpKINode Title="RAQueue(Of T) class">
+    <HelpKINode Title="about RAQueue(Of T) class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm" />
+    <HelpKINode Title="all members" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+    <HelpKINode Title="constructor" Url="html/5ce0e2df-398f-401e-5e44-9ee4e5b71935.htm" />
+    <HelpKINode Title="methods" Url="html/47e8bf45-e4e9-dbc5-a837-3ed37c3b9d8a.htm" />
+    <HelpKINode Title="properties" Url="html/506512a6-47ec-25d5-6651-2c96e5e9292d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RAQueue(Of T).Capacity property" Url="html/adcc0d01-b5aa-6241-d9ce-77e826dddd4b.htm" />
+  <HelpKINode Title="RAQueue(Of T).Clear method" Url="html/80210097-3df2-5397-0034-947816ec7275.htm" />
+  <HelpKINode Title="RAQueue(Of T).Count property" Url="html/21165b3b-e91b-b35c-3e07-609f9274e0b0.htm" />
+  <HelpKINode Title="RAQueue(Of T).Dequeue method" Url="html/95cae165-834f-d1a8-32ea-d8492411c7a3.htm" />
+  <HelpKINode Title="RAQueue(Of T).Enqueue method" Url="html/aa1d56a7-cc98-8178-b772-a2befdac911c.htm" />
+  <HelpKINode Title="RAQueue(Of T).GetEnumerator method" Url="html/c41b8424-ee52-d87a-7752-e73bad0399c6.htm" />
+  <HelpKINode Title="RAQueue(Of T).IndexAtEnd method" Url="html/d83622e2-f636-ae91-b83a-147f60ab5a81.htm" />
+  <HelpKINode Title="RAQueue(Of T).IndexAtFront method" Url="html/e1f17b8f-2e2e-575a-cd0f-41f938efc44b.htm" />
+  <HelpKINode Title="RAQueue(Of T).Peek method" Url="html/2e5bec5e-d5c8-7ffc-fea4-59d5827f7aca.htm" />
+  <HelpKINode Title="RAQueue(Of T).PeekAt method" Url="html/3802c842-dff7-1110-c24f-d8e6dd1c206d.htm" />
+  <HelpKINode Title="RAQueue(Of T).Range method" Url="html/b8692e79-393f-3330-426c-08a9208138e4.htm" />
+  <HelpKINode Title="RAQueue(Of T).RAQueue constructor" Url="html/5ce0e2df-398f-401e-5e44-9ee4e5b71935.htm" />
+  <HelpKINode Title="RAQueue(Of T).RemoveUpTo method" Url="html/26051d16-a0d4-3540-e7bd-d35bcf23566a.htm" />
+  <HelpKINode Title="RAQueue(Of T).ValidIndex method" Url="html/2a19c19f-2bb4-7c2c-32c1-419dc0395371.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt; class" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt; class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt; class">
+    <HelpKINode Title="about RAQueue&lt;T&gt; class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm" />
+    <HelpKINode Title="all members" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+    <HelpKINode Title="constructor" Url="html/5ce0e2df-398f-401e-5e44-9ee4e5b71935.htm" />
+    <HelpKINode Title="methods" Url="html/47e8bf45-e4e9-dbc5-a837-3ed37c3b9d8a.htm" />
+    <HelpKINode Title="properties" Url="html/506512a6-47ec-25d5-6651-2c96e5e9292d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RAQueue&lt;T&gt;.Capacity property" Url="html/adcc0d01-b5aa-6241-d9ce-77e826dddd4b.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.Clear method" Url="html/80210097-3df2-5397-0034-947816ec7275.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.Count property" Url="html/21165b3b-e91b-b35c-3e07-609f9274e0b0.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.Dequeue method" Url="html/95cae165-834f-d1a8-32ea-d8492411c7a3.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.Enqueue method" Url="html/aa1d56a7-cc98-8178-b772-a2befdac911c.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.GetEnumerator method" Url="html/c41b8424-ee52-d87a-7752-e73bad0399c6.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.IndexAtEnd method" Url="html/d83622e2-f636-ae91-b83a-147f60ab5a81.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.IndexAtFront method" Url="html/e1f17b8f-2e2e-575a-cd0f-41f938efc44b.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.Peek method" Url="html/2e5bec5e-d5c8-7ffc-fea4-59d5827f7aca.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.PeekAt method" Url="html/3802c842-dff7-1110-c24f-d8e6dd1c206d.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.Range method" Url="html/b8692e79-393f-3330-426c-08a9208138e4.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.RAQueue constructor" Url="html/5ce0e2df-398f-401e-5e44-9ee4e5b71935.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.RemoveUpTo method" Url="html/26051d16-a0d4-3540-e7bd-d35bcf23566a.htm" />
+  <HelpKINode Title="RAQueue&lt;T&gt;.ValidIndex method" Url="html/2a19c19f-2bb4-7c2c-32c1-419dc0395371.htm" />
+  <HelpKINode Title="RemoveUpTo method" Url="html/26051d16-a0d4-3540-e7bd-d35bcf23566a.htm" />
+  <HelpKINode Title="Reset method" Url="html/7eb68cbd-7266-46fd-9f09-190d43c69cae.htm" />
+  <HelpKINode Title="Select method" Url="html/0599e27a-2b71-9de7-27ff-f4afcc663eee.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T) class" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T) class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T) class">
+    <HelpKINode Title="about SinglePassSequence(Of T) class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm" />
+    <HelpKINode Title="all members" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+    <HelpKINode Title="constructor" Url="html/2bf12056-529e-60ad-2211-a7eef489025b.htm" />
+    <HelpKINode Title="methods" Url="html/723e7bf7-f72b-7423-0931-b0add8a33f34.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SinglePassSequence(Of T).Dispose method" Url="html/7d73c511-8d98-f4fb-2a78-dcaacdc8f786.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator class" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator class">
+    <HelpKINode Title="about SinglePassSequence(Of T).Enumerator class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm" />
+    <HelpKINode Title="all members" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+    <HelpKINode Title="methods" Url="html/9a09c609-3ec5-7277-d5a4-a97ab8188071.htm" />
+    <HelpKINode Title="properties" Url="html/697a3008-cd19-c87c-2561-655ec24505f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.Current property" Url="html/5cf7b2f3-02a0-b059-e48a-8f51339550fc.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.Dispose method" Url="html/be7bde13-9c5d-6a6f-ed00-6030a313db71.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.DistanceBefore method" Url="html/21b8c741-e5d9-db05-0b7b-77db2d032137.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.HasSamePositionAs method" Url="html/ac172096-928a-4b66-a212-705e0dc2ad1a.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.MoveNext method" Url="html/8e28d4f1-ea72-dacf-622b-9667aef919b6.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.Reset method" Url="html/7eb68cbd-7266-46fd-9f09-190d43c69cae.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Enumerator.Valid property" Url="html/9474db08-2e35-9064-ec05-ec7c79090eb6.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).GetEnumerator method" Url="html/4be2507c-808b-3d1b-ff9b-5ebe4fa3f56c.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).Range method" Url="html/38186253-fc1c-5f41-705f-77ab9c9d2b32.htm" />
+  <HelpKINode Title="SinglePassSequence(Of T).SinglePassSequence constructor" Url="html/2bf12056-529e-60ad-2211-a7eef489025b.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt; class" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt; class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt; class">
+    <HelpKINode Title="about SinglePassSequence&lt;T&gt; class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm" />
+    <HelpKINode Title="all members" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+    <HelpKINode Title="constructor" Url="html/2bf12056-529e-60ad-2211-a7eef489025b.htm" />
+    <HelpKINode Title="methods" Url="html/723e7bf7-f72b-7423-0931-b0add8a33f34.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Dispose method" Url="html/7d73c511-8d98-f4fb-2a78-dcaacdc8f786.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator class" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator class">
+    <HelpKINode Title="about SinglePassSequence&lt;T&gt;.Enumerator class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm" />
+    <HelpKINode Title="all members" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+    <HelpKINode Title="methods" Url="html/9a09c609-3ec5-7277-d5a4-a97ab8188071.htm" />
+    <HelpKINode Title="properties" Url="html/697a3008-cd19-c87c-2561-655ec24505f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.Current property" Url="html/5cf7b2f3-02a0-b059-e48a-8f51339550fc.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.Dispose method" Url="html/be7bde13-9c5d-6a6f-ed00-6030a313db71.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.DistanceBefore method" Url="html/21b8c741-e5d9-db05-0b7b-77db2d032137.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.HasSamePositionAs method" Url="html/ac172096-928a-4b66-a212-705e0dc2ad1a.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.MoveNext method" Url="html/8e28d4f1-ea72-dacf-622b-9667aef919b6.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.Reset method" Url="html/7eb68cbd-7266-46fd-9f09-190d43c69cae.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Enumerator.Valid property" Url="html/9474db08-2e35-9064-ec05-ec7c79090eb6.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.GetEnumerator method" Url="html/4be2507c-808b-3d1b-ff9b-5ebe4fa3f56c.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.Range method" Url="html/38186253-fc1c-5f41-705f-77ab9c9d2b32.htm" />
+  <HelpKINode Title="SinglePassSequence&lt;T&gt;.SinglePassSequence constructor" Url="html/2bf12056-529e-60ad-2211-a7eef489025b.htm" />
+  <HelpKINode Title="Sum method" Url="html/fab4759b-bd57-c330-1051-7a1bddeb77fe.htm" />
+  <HelpKINode Title="Valid property" Url="html/9474db08-2e35-9064-ec05-ec7c79090eb6.htm" />
+  <HelpKINode Title="ValidIndex method" Url="html/2a19c19f-2bb4-7c2c-32c1-419dc0395371.htm" />
+  <HelpKINode Title="Where method" Url="html/5d379918-9d2c-bbb0-d324-410cc02a608e.htm" />
+  <HelpKINode Title="Window method" Url="html/750ee2f5-5439-a230-244e-274f67b1ab07.htm" />
+  <HelpKINode Title="WindowExtension class" Url="html/134cfb21-7e77-ba52-16bd-448af96b3d18.htm" />
+  <HelpKINode Title="WindowExtension class" Url="html/a4dffe65-e5e8-d255-4c10-16b5d9018216.htm" />
+  <HelpKINode Title="WindowExtension class">
+    <HelpKINode Title="about WindowExtension class" Url="html/a4dffe65-e5e8-d255-4c10-16b5d9018216.htm" />
+    <HelpKINode Title="all members" Url="html/134cfb21-7e77-ba52-16bd-448af96b3d18.htm" />
+    <HelpKINode Title="methods" Url="html/6ee59ce2-62e7-23ca-8cab-8b303cbd7bd7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WindowExtension.Aggregate method" Url="html/fef88c60-bc34-0f07-8bc8-90fc98c97a80.htm" />
+  <HelpKINode Title="WindowExtension.Average method" Url="html/e9e92c24-2610-1d79-20f5-da4bbf712425.htm" />
+  <HelpKINode Title="WindowExtension.BeginAggregate(Of TSource) method" Url="html/9b62c995-310d-5da7-686c-5f264775a0b5.htm" />
+  <HelpKINode Title="WindowExtension.BeginAggregate&lt;TSource&gt; method" Url="html/9b62c995-310d-5da7-686c-5f264775a0b5.htm" />
+  <HelpKINode Title="WindowExtension.Compute method" Url="html/28ebbe1a-5130-7ac6-2fbe-2a385e1a4d8c.htm" />
+  <HelpKINode Title="WindowExtension.Count method" Url="html/50d0b27d-8d8a-5d01-bc86-2b32468fcfb0.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates) interface" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates) interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates) interface">
+    <HelpKINode Title="about WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates) interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm" />
+    <HelpKINode Title="all members" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+    <HelpKINode Title="methods" Url="html/6ebc55ff-4879-8f1b-3b63-a0c9578b42bf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates).GetDefault method" Url="html/0873a92c-c0da-b0f4-6759-e8167e8f3bfd.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates).GetEnumerator method" Url="html/fcb9aa00-ceaa-2411-8ff1-dd0d18c2e88e.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt; interface" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt; interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt; interface">
+    <HelpKINode Title="about WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt; interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm" />
+    <HelpKINode Title="all members" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+    <HelpKINode Title="methods" Url="html/6ebc55ff-4879-8f1b-3b63-a0c9578b42bf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt;.GetDefault method" Url="html/0873a92c-c0da-b0f4-6759-e8167e8f3bfd.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt;.GetEnumerator method" Url="html/fcb9aa00-ceaa-2411-8ff1-dd0d18c2e88e.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateFunction(Of TElement, TAggregates) interface" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateFunction(Of TElement, TAggregates) interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateFunction(Of TElement, TAggregates) interface">
+    <HelpKINode Title="about WindowExtension.IWindowAggregateFunction(Of TElement, TAggregates) interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm" />
+    <HelpKINode Title="all members" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+    <HelpKINode Title="methods" Url="html/ed8b4ac3-b1b3-d34b-0bbb-c0579d406f27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WindowExtension.IWindowAggregateFunction&lt;TElement, TAggregates&gt; interface" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateFunction&lt;TElement, TAggregates&gt; interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm" />
+  <HelpKINode Title="WindowExtension.IWindowAggregateFunction&lt;TElement, TAggregates&gt; interface">
+    <HelpKINode Title="about WindowExtension.IWindowAggregateFunction&lt;TElement, TAggregates&gt; interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm" />
+    <HelpKINode Title="all members" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+    <HelpKINode Title="methods" Url="html/ed8b4ac3-b1b3-d34b-0bbb-c0579d406f27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WindowExtension.LastOrDefault(Of TSource, TSourceAggregates) method" Url="html/f14a6890-5ee9-5652-bfbd-2bff4bdb36d0.htm" />
+  <HelpKINode Title="WindowExtension.LastOrDefault&lt;TSource, TSourceAggregates&gt; method" Url="html/f14a6890-5ee9-5652-bfbd-2bff4bdb36d0.htm" />
+  <HelpKINode Title="WindowExtension.LongCount method" Url="html/1442a1d9-deb7-89a3-a0c7-67cf5cffe048.htm" />
+  <HelpKINode Title="WindowExtension.Max method" Url="html/e76a82be-998b-a2f3-45dd-9a0c949630e6.htm" />
+  <HelpKINode Title="WindowExtension.Min method" Url="html/e7d8dafa-6342-9fc3-fd33-f6e8a4f612f9.htm" />
+  <HelpKINode Title="WindowExtension.Partition method" Url="html/8ef84425-1a12-5345-d5c7-163c34772092.htm" />
+  <HelpKINode Title="WindowExtension.Select method" Url="html/0599e27a-2b71-9de7-27ff-f4afcc663eee.htm" />
+  <HelpKINode Title="WindowExtension.Sum method" Url="html/fab4759b-bd57-c330-1051-7a1bddeb77fe.htm" />
+  <HelpKINode Title="WindowExtension.Where method" Url="html/5d379918-9d2c-bbb0-d324-410cc02a608e.htm" />
+  <HelpKINode Title="WindowExtension.Window method" Url="html/750ee2f5-5439-a230-244e-274f67b1ab07.htm" />
+  <HelpKINode Title="WindowExtension.WindowUnbounded method" Url="html/585966a9-3469-d497-ab92-3c231653efe3.htm" />
+  <HelpKINode Title="WindowExtension.WindowUnboundedFollowing method" Url="html/af3c6258-e8af-c087-faf2-9727c59cc72e.htm" />
+  <HelpKINode Title="WindowExtension.WindowUnboundedPreceding method" Url="html/ccc95c81-b154-c228-b7b1-732db1dbec1b.htm" />
+  <HelpKINode Title="WindowToLinq namespace" Url="html/16c43b90-b349-f4b1-f9a1-cc7cfa5b6528.htm" />
+  <HelpKINode Title="WindowToLinq.RAQueue(Of T) class" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+  <HelpKINode Title="WindowToLinq.RAQueue(Of T) class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm" />
+  <HelpKINode Title="WindowToLinq.RAQueue&lt;T&gt; class" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+  <HelpKINode Title="WindowToLinq.RAQueue&lt;T&gt; class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence(Of T) class" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence(Of T) class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence(Of T).Enumerator class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence(Of T).Enumerator class" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence&lt;T&gt; class" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence&lt;T&gt; class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence&lt;T&gt;.Enumerator class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm" />
+  <HelpKINode Title="WindowToLinq.SinglePassSequence&lt;T&gt;.Enumerator class" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension class" Url="html/134cfb21-7e77-ba52-16bd-448af96b3d18.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension class" Url="html/a4dffe65-e5e8-d255-4c10-16b5d9018216.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates) interface" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateEnumerable(Of TElement, TAggregates) interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt; interface" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateEnumerable&lt;TElement, TAggregates&gt; interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateFunction(Of TElement, TAggregates) interface" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateFunction(Of TElement, TAggregates) interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateFunction&lt;TElement, TAggregates&gt; interface" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+  <HelpKINode Title="WindowToLinq.WindowExtension.IWindowAggregateFunction&lt;TElement, TAggregates&gt; interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm" />
+  <HelpKINode Title="WindowUnbounded method" Url="html/585966a9-3469-d497-ab92-3c231653efe3.htm" />
+  <HelpKINode Title="WindowUnboundedFollowing method" Url="html/af3c6258-e8af-c087-faf2-9727c59cc72e.htm" />
+  <HelpKINode Title="WindowUnboundedPreceding method" Url="html/ccc95c81-b154-c228-b7b1-732db1dbec1b.htm" />
+</HelpKI>

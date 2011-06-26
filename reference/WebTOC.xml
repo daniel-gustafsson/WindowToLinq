@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="b757bccf-cdd3-4073-837a-76ccb17f240f" Title="WindowToLinq Namespace" Url="html/16c43b90-b349-f4b1-f9a1-cc7cfa5b6528.htm">
+    <HelpTOCNode Id="be7e46fe-55d7-4f29-9559-efc9c7d0a2e9" Title="RAQueue(T) Class" Url="html/30a0059e-56ec-0b61-4a03-38f331f1618e.htm">
+      <HelpTOCNode Title="RAQueue(T) Members" Url="html/08fe79db-a223-0f47-3e72-4848a8c14e7f.htm" />
+      <HelpTOCNode Id="a8a6dab2-0426-462a-8038-fb4a6623e700" Title="RAQueue(T) Constructor " Url="html/5ce0e2df-398f-401e-5e44-9ee4e5b71935.htm">
+        <HelpTOCNode Title="RAQueue(T) Constructor " Url="html/8a0ec7b1-7cf3-f52c-1e9a-12f64cf973bf.htm" />
+        <HelpTOCNode Title="RAQueue(T) Constructor (Int32)" Url="html/e69450e7-61ae-865c-b7b6-60299a5cd339.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cedeb318-09f9-40b1-8511-ee3640d5b1c8" Title="RAQueue(T) Methods" Url="html/47e8bf45-e4e9-dbc5-a837-3ed37c3b9d8a.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/80210097-3df2-5397-0034-947816ec7275.htm" />
+        <HelpTOCNode Title="Dequeue Method " Url="html/95cae165-834f-d1a8-32ea-d8492411c7a3.htm" />
+        <HelpTOCNode Title="Enqueue Method " Url="html/aa1d56a7-cc98-8178-b772-a2befdac911c.htm" />
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/c41b8424-ee52-d87a-7752-e73bad0399c6.htm" />
+        <HelpTOCNode Title="IndexAtEnd Method " Url="html/d83622e2-f636-ae91-b83a-147f60ab5a81.htm" />
+        <HelpTOCNode Title="IndexAtFront Method " Url="html/e1f17b8f-2e2e-575a-cd0f-41f938efc44b.htm" />
+        <HelpTOCNode Title="Peek Method " Url="html/2e5bec5e-d5c8-7ffc-fea4-59d5827f7aca.htm" />
+        <HelpTOCNode Title="PeekAt Method " Url="html/3802c842-dff7-1110-c24f-d8e6dd1c206d.htm" />
+        <HelpTOCNode Title="Range Method " Url="html/b8692e79-393f-3330-426c-08a9208138e4.htm" />
+        <HelpTOCNode Title="RemoveUpTo Method " Url="html/26051d16-a0d4-3540-e7bd-d35bcf23566a.htm" />
+        <HelpTOCNode Title="ValidIndex Method " Url="html/2a19c19f-2bb4-7c2c-32c1-419dc0395371.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="402f37b5-1278-4e58-b052-6c33be385bf5" Title="RAQueue(T) Properties" Url="html/506512a6-47ec-25d5-6651-2c96e5e9292d.htm">
+        <HelpTOCNode Title="Capacity Property " Url="html/adcc0d01-b5aa-6241-d9ce-77e826dddd4b.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/21165b3b-e91b-b35c-3e07-609f9274e0b0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="74db6219-59b3-48fb-a244-abc84d5fcfae" Title="SinglePassSequence(T) Class" Url="html/f1a8e687-0541-d86e-0730-ee58691479f8.htm">
+      <HelpTOCNode Title="SinglePassSequence(T) Members" Url="html/6fec93e9-99e1-faf7-0f96-023946c98581.htm" />
+      <HelpTOCNode Title="SinglePassSequence(T) Constructor " Url="html/2bf12056-529e-60ad-2211-a7eef489025b.htm" />
+      <HelpTOCNode Id="bf63d34d-8f0e-4a2e-b278-ed6da0686e0e" Title="SinglePassSequence(T) Methods" Url="html/723e7bf7-f72b-7423-0931-b0add8a33f34.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/7d73c511-8d98-f4fb-2a78-dcaacdc8f786.htm" />
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/4be2507c-808b-3d1b-ff9b-5ebe4fa3f56c.htm" />
+        <HelpTOCNode Title="Range Method " Url="html/38186253-fc1c-5f41-705f-77ab9c9d2b32.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b12dee34-3a70-41ae-8ef6-8d369c026ff7" Title="SinglePassSequence(T).Enumerator Class" Url="html/7a249d61-e792-ef09-a692-73b90dcf3595.htm">
+      <HelpTOCNode Title="SinglePassSequence(T).Enumerator Members" Url="html/d2e8f8ec-3305-890a-677d-0d7876d1b306.htm" />
+      <HelpTOCNode Id="ac8aa732-6988-4c48-9898-ed1ea255ab4e" Title="SinglePassSequence(T).Enumerator Methods" Url="html/9a09c609-3ec5-7277-d5a4-a97ab8188071.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/be7bde13-9c5d-6a6f-ed00-6030a313db71.htm" />
+        <HelpTOCNode Title="DistanceBefore Method " Url="html/21b8c741-e5d9-db05-0b7b-77db2d032137.htm" />
+        <HelpTOCNode Title="HasSamePositionAs Method " Url="html/ac172096-928a-4b66-a212-705e0dc2ad1a.htm" />
+        <HelpTOCNode Title="MoveNext Method " Url="html/8e28d4f1-ea72-dacf-622b-9667aef919b6.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/7eb68cbd-7266-46fd-9f09-190d43c69cae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f924ec8-45b4-4003-994b-5e2e5f2f86eb" Title="SinglePassSequence(T).Enumerator Properties" Url="html/697a3008-cd19-c87c-2561-655ec24505f9.htm">
+        <HelpTOCNode Title="Current Property " Url="html/5cf7b2f3-02a0-b059-e48a-8f51339550fc.htm" />
+        <HelpTOCNode Title="Valid Property " Url="html/9474db08-2e35-9064-ec05-ec7c79090eb6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="704fe52d-9570-4026-8406-b57465380b09" Title="WindowExtension Class" Url="html/a4dffe65-e5e8-d255-4c10-16b5d9018216.htm">
+      <HelpTOCNode Title="WindowExtension Members" Url="html/134cfb21-7e77-ba52-16bd-448af96b3d18.htm" />
+      <HelpTOCNode Id="817b91da-7b91-4ddb-aecd-368222f06df1" Title="WindowExtension Methods" Url="html/6ee59ce2-62e7-23ca-8cab-8b303cbd7bd7.htm">
+        <HelpTOCNode Id="83b870e5-3a7e-44a9-972f-b0f990749391" Title="Aggregate Method " Url="html/fef88c60-bc34-0f07-8bc8-90fc98c97a80.htm">
+          <HelpTOCNode Title="Aggregate(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, TSource, TSource))" Url="html/cdb2fb01-7561-b2f1-596c-e7dee4fb8582.htm" />
+          <HelpTOCNode Title="Aggregate(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, TSource, TSource), Func(TSource, TSource, TSource))" Url="html/45ab84e8-cb34-2652-f020-385b24113c6c.htm" />
+          <HelpTOCNode Title="Aggregate(TSource, TSourceAggregates, TAccumulate) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), TAccumulate, Func(TAccumulate, TSource, TAccumulate))" Url="html/e2dd013d-31ce-f23b-5628-979b111e1ce0.htm" />
+          <HelpTOCNode Title="Aggregate(TSource, TSourceAggregates, TAccumulate, TResult) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), TAccumulate, Func(TAccumulate, TSource, TAccumulate), Func(TAccumulate, TResult))" Url="html/8421031d-6a27-7cec-3642-a750912bbcb0.htm" />
+          <HelpTOCNode Title="Aggregate(TSource, TSourceAggregates, TAccumulate) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), TAccumulate, Func(TAccumulate, TSource, TAccumulate), Func(TAccumulate, TSource, TAccumulate))" Url="html/2516437a-09a3-1176-72cb-11fd3dcf99e3.htm" />
+          <HelpTOCNode Title="Aggregate(TSource, TSourceAggregates, TAccumulate, TResult) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), TAccumulate, Func(TAccumulate, TSource, TAccumulate), Func(TAccumulate, TSource, TAccumulate), Func(TAccumulate, TResult))" Url="html/51abdc2e-ec8f-d958-eff6-2d3dd15df1ff.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e926db7f-e740-4c21-a8bf-ad14388ccd7b" Title="Average Method " Url="html/e9e92c24-2610-1d79-20f5-da4bbf712425.htm">
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Decimal, TSourceAggregates))" Url="html/fa6b1971-5946-2f33-f774-ef33908bc879.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Double, TSourceAggregates))" Url="html/d2436405-2eef-0dda-7f75-23d141358d8b.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int32, TSourceAggregates))" Url="html/73379525-d2a5-0f95-9244-87f35ca5a9c2.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int64, TSourceAggregates))" Url="html/50ecc211-0b1f-b4fa-ce88-548d3e635956.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Decimal), TSourceAggregates))" Url="html/eba0aad0-5cde-fd5b-057d-25471ec01c3c.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Double), TSourceAggregates))" Url="html/9d4fbd72-0165-2f1e-4905-dc372123a6c5.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int32), TSourceAggregates))" Url="html/8481268a-2fcc-afad-3c29-21cc69605a46.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int64), TSourceAggregates))" Url="html/f6366f6c-1b6b-3c99-9aa5-4ba1a465e8a5.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Single), TSourceAggregates))" Url="html/96d8b8bb-7ab9-9a63-003c-3ba28fbe3b74.htm" />
+          <HelpTOCNode Title="Average(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Single, TSourceAggregates))" Url="html/62f57326-5117-32ea-8523-160bc76d66e3.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Decimal))" Url="html/bbc08440-3421-dc54-c908-f232e1b2d630.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Double))" Url="html/f0172c5f-8039-6959-c51d-b769b9edd800.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int32))" Url="html/11eb6df6-eae6-fe5e-1601-e57185043620.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int64))" Url="html/87ad65f8-1183-a181-3404-c135f3a48f5b.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Decimal)))" Url="html/045efa1f-9fe2-d2c1-4fef-766919eef1c3.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Double)))" Url="html/b3087471-cbb2-a110-4e56-643f501ced33.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int32)))" Url="html/3e7db574-5ba3-e8dc-2a1f-75482bbf7b28.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int64)))" Url="html/8bd29cb0-e739-f267-9c7b-1d2d437b91d6.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Single)))" Url="html/d0eafefe-137d-70bf-5ad7-91c6014addd3.htm" />
+          <HelpTOCNode Title="Average(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Single))" Url="html/cbd4a945-7c3a-d0ae-fe6c-57830d9cde82.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BeginAggregate(TSource) Method " Url="html/9b62c995-310d-5da7-686c-5f264775a0b5.htm" />
+        <HelpTOCNode Id="936b8607-4341-457a-b01b-1e6135a5efa6" Title="Compute Method " Url="html/28ebbe1a-5130-7ac6-2fbe-2a385e1a4d8c.htm">
+          <HelpTOCNode Title="Compute(TSource, TA1) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA1, Int32)))" Url="html/156c7004-b68e-674a-a53c-4870788b5f40.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TA10) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA10, Tuple(TA9, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))))))" Url="html/aac81f19-9109-a94d-312b-7fa59c39dd1b.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA2, Tuple(TA1, Int32))))" Url="html/5b2771ba-6d56-599b-7d2e-c44b05b8347c.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))" Url="html/f64ae361-6277-f8a2-4dec-977a5c779efb.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))" Url="html/aeb20895-9c5a-0839-4e33-3650d65817c5.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4, TA5) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))" Url="html/bc750cdf-4310-6cdd-ad10-a730eee4a4f0.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4, TA5, TA6) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))" Url="html/04a47de0-e9c5-3646-6e13-595006612021.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))))" Url="html/fba56ad6-587c-346f-8acd-8aa47b2ad4f6.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))))" Url="html/d40fea77-ff22-6f60-f2ce-b60df6ff682a.htm" />
+          <HelpTOCNode Title="Compute(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA9, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))))))" Url="html/89c03df6-4a62-3971-8b30-a01de8917004.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA1, Int32)), Func(TA1, TResult))" Url="html/63c2e51a-df47-4acf-62a4-f02a2990b346.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TA10) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA10, Tuple(TA9, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))))), Func(TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TA10, TResult))" Url="html/9c8a5d57-c685-ea28-39de-ec30052ea194.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA2, Tuple(TA1, Int32))), Func(TA1, TA2, TResult))" Url="html/0b9ea7e8-426c-ece4-a9a1-f5fc993877a8.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))), Func(TA1, TA2, TA3, TResult))" Url="html/7410084e-b453-b84d-78a1-815ee6a2acf6.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))), Func(TA1, TA2, TA3, TA4, TResult))" Url="html/f1b31171-73ce-35c4-024d-b6eae93ece1c.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4, TA5) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))), Func(TA1, TA2, TA3, TA4, TA5, TResult))" Url="html/0a914d12-886c-70a3-800e-e6c6fd37b5a1.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))), Func(TA1, TA2, TA3, TA4, TA5, TA6, TResult))" Url="html/0978d81a-5683-f6af-a1bd-99463c517886.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))), Func(TA1, TA2, TA3, TA4, TA5, TA6, TA7, TResult))" Url="html/f5d22498-9f53-52d2-4d70-5806289b9a83.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))), Func(TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TResult))" Url="html/20255480-8c3b-f5e1-cdcf-60b4d7325b20.htm" />
+          <HelpTOCNode Title="Compute(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA9, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))))), Func(TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TResult))" Url="html/b1843fee-262e-1fa8-d07f-9f2bd1a10075.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="eba797a5-f659-4173-b51f-481e7740c55d" Title="Count Method " Url="html/50d0b27d-8d8a-5d01-bc86-2b32468fcfb0.htm">
+          <HelpTOCNode Title="Count(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates))" Url="html/42f8eaeb-471d-6289-6b54-282a646dc631.htm" />
+          <HelpTOCNode Title="Count(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Boolean))" Url="html/3a3ca3ea-ad33-53a2-7970-d872bd302734.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LastOrDefault(TSource, TSourceAggregates) Method " Url="html/f14a6890-5ee9-5652-bfbd-2bff4bdb36d0.htm" />
+        <HelpTOCNode Id="e0b56857-fe25-4c02-a2bd-ac02a9728fae" Title="LongCount Method " Url="html/1442a1d9-deb7-89a3-a0c7-67cf5cffe048.htm">
+          <HelpTOCNode Title="LongCount(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates))" Url="html/e4cced0d-c5fe-1242-041c-1328d07c8311.htm" />
+          <HelpTOCNode Title="LongCount(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Boolean))" Url="html/97bb33c2-cdc5-d342-66a5-d5b5185f0444.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7d7024fe-ddd7-445f-b0f7-16dd8ddd0d0d" Title="Max Method " Url="html/e76a82be-998b-a2f3-45dd-9a0c949630e6.htm">
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Decimal, TSourceAggregates))" Url="html/e97f6468-f3c5-00dc-91a7-3bbe1ffb965b.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Double, TSourceAggregates))" Url="html/35271523-0a5b-2686-52fd-6f03bf4bdbce.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int32, TSourceAggregates))" Url="html/2c33117d-31c5-c505-3ebd-b7e1d9e8e65b.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int64, TSourceAggregates))" Url="html/1e44f7d7-9fb6-7dda-20fc-7afbfeff9dad.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Decimal), TSourceAggregates))" Url="html/bce38561-760e-2fcd-64b4-e540ea8ac0d7.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Double), TSourceAggregates))" Url="html/67e36e3b-80e7-0240-aa49-2c279274bea9.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int32), TSourceAggregates))" Url="html/823e2ce6-2f2c-b0f9-77a0-618bcd7bc1c0.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int64), TSourceAggregates))" Url="html/26243955-4d0f-3baa-4974-44ae0746cc35.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Single), TSourceAggregates))" Url="html/ccb72ddf-5d63-8a13-4531-ad26da7e5622.htm" />
+          <HelpTOCNode Title="Max(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Single, TSourceAggregates))" Url="html/ef02ba86-159c-2b8c-0db8-554fbe5c8b85.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates))" Url="html/034f0678-d008-e46c-0fd3-b1f0b6559287.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Decimal))" Url="html/70018885-4dc0-1894-6dee-4a8350964e30.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Double))" Url="html/1ad489ea-c8d3-0efe-ae9f-e616cd848902.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int32))" Url="html/b7625532-a938-4454-5c3b-0b3592df384a.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int64))" Url="html/2f35fa70-8712-ecfd-837b-44b82785c283.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Decimal)))" Url="html/2792eaf7-29cf-c93d-3533-6a57c6c36393.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Double)))" Url="html/f67ef8fd-f51b-d159-8c0b-79b4c50f4a56.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int32)))" Url="html/e8d59619-b922-59d3-7e5b-6ff3839360ef.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int64)))" Url="html/da032186-c031-3580-291a-8305da6d685c.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Single)))" Url="html/470ee1ed-11f8-e0f8-a64c-47bc864e0dba.htm" />
+          <HelpTOCNode Title="Max(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Single))" Url="html/ab4c4c51-29c1-89af-3841-a2d0d764896d.htm" />
+          <HelpTOCNode Title="Max(TSource, TResult, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, TResult))" Url="html/ed1aa45c-8ef6-e05e-04e5-053b975c46b3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="598e2883-aa7d-4fd9-b00b-230a9d79ed1b" Title="Min Method " Url="html/e7d8dafa-6342-9fc3-fd33-f6e8a4f612f9.htm">
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Decimal, TSourceAggregates))" Url="html/2ecff70c-d7ad-1df7-720c-513898ab61c9.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Double, TSourceAggregates))" Url="html/f1673502-d0ba-805e-a5b1-2c476c511aa3.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int32, TSourceAggregates))" Url="html/79e69bc5-d91c-2cd3-1493-60994f186508.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int64, TSourceAggregates))" Url="html/da7e2fa5-ce1c-1688-a020-1d4f5dff2540.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Decimal), TSourceAggregates))" Url="html/2a77f96f-9a94-1b2c-f17e-5ceb1bcc6c1e.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Double), TSourceAggregates))" Url="html/71eb993d-b32b-3871-b492-e27355afcf9f.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int32), TSourceAggregates))" Url="html/fedc5df1-8eac-5390-ef33-00b3499975a6.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int64), TSourceAggregates))" Url="html/b47afc99-6a84-90bd-2202-eaee86078ad7.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Single), TSourceAggregates))" Url="html/3a46b48b-fc0d-9e1e-8269-d8a35e80509f.htm" />
+          <HelpTOCNode Title="Min(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Single, TSourceAggregates))" Url="html/95cd5368-06f7-26bb-66e8-39667a770483.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates))" Url="html/b7322f79-ecdf-39d1-4fb6-351f79028eec.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Decimal))" Url="html/8dbc579f-079e-9b77-90bf-1027d1f134ce.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Double))" Url="html/d6267e26-857f-58e4-d0a9-e825b4c01da8.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int32))" Url="html/08091da3-944c-2c1b-5ed4-fa063a1d4b0c.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int64))" Url="html/4f79104b-f678-ef30-3bad-3a2f3ab87dce.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Decimal)))" Url="html/0b48b510-df94-5a31-96d8-ce6bd26cbbf5.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Double)))" Url="html/c28180b5-7ea6-b152-40d7-7e7f1bdb4b19.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int32)))" Url="html/4bb2b9c1-fbc7-d42d-077b-a65c29873886.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int64)))" Url="html/8e0ee8ee-6fd1-3ee5-a5e3-cdaf7a562dfa.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Single)))" Url="html/63670b85-b4de-2ff7-df20-9d140933a4df.htm" />
+          <HelpTOCNode Title="Min(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Single))" Url="html/fd3faf61-48ed-8467-9156-06c2181d578e.htm" />
+          <HelpTOCNode Title="Min(TSource, TResult, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, TResult))" Url="html/e1279ce4-461a-dda6-2b7c-aaaa1c645d27.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="46879484-1d86-40f9-84b3-f19586bbc1c6" Title="Partition Method " Url="html/8ef84425-1a12-5345-d5c7-163c34772092.htm">
+          <HelpTOCNode Title="Partition(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey))" Url="html/cdbf7f58-dcce-933c-fff5-56a570cdc83e.htm" />
+          <HelpTOCNode Title="Partition(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey))" Url="html/2eb738fb-6456-45f8-7024-90f4273d07d1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fb8fd9ee-a82a-4e2a-977c-d5d57f2ca62f" Title="Select Method " Url="html/0599e27a-2b71-9de7-27ff-f4afcc663eee.htm">
+          <HelpTOCNode Title="Select(TSource, TResult, TA1) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA1, Int32)), Func(TSource, TA1, TResult))" Url="html/72271c3b-6df5-4fae-e2d4-30674be06f09.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TA10) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA10, Tuple(TA9, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))))), Func(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TA10, TResult))" Url="html/18388a60-aecc-16ff-abbf-d965a947867f.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA2, Tuple(TA1, Int32))), Func(TSource, TA1, TA2, TResult))" Url="html/82adfd97-5d29-efad-49f5-98d52e11152e.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))), Func(TSource, TA1, TA2, TA3, TResult))" Url="html/98594ecc-d654-0325-9b06-90ee5b460eef.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))), Func(TSource, TA1, TA2, TA3, TA4, TResult))" Url="html/ef558e29-3cb8-9843-25b6-119ee901dcf7.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4, TA5) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))), Func(TSource, TA1, TA2, TA3, TA4, TA5, TResult))" Url="html/fbfc4646-983c-1f2d-db20-105b5e10af30.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))), Func(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TResult))" Url="html/ea01c015-2749-38fb-3ca7-e014bbffdb42.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))), Func(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TResult))" Url="html/de20e0c1-d522-4e4b-e2ab-ccc6b5830bee.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32))))))))), Func(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TResult))" Url="html/8025a254-0e25-0461-0340-14c76ee679d3.htm" />
+          <HelpTOCNode Title="Select(TSource, TResult, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9) Method (WindowExtension.IWindowAggregateEnumerable(TSource, Tuple(TA9, Tuple(TA8, Tuple(TA7, Tuple(TA6, Tuple(TA5, Tuple(TA4, Tuple(TA3, Tuple(TA2, Tuple(TA1, Int32)))))))))), Func(TSource, TA1, TA2, TA3, TA4, TA5, TA6, TA7, TA8, TA9, TResult))" Url="html/0284e301-3f18-8985-b0d6-e5df52869e76.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="243d07a2-ac3c-4875-8117-63393fedf8a9" Title="Sum Method " Url="html/fab4759b-bd57-c330-1051-7a1bddeb77fe.htm">
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Decimal, TSourceAggregates))" Url="html/d5da55c0-96af-b517-3231-e99a0572976f.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Double, TSourceAggregates))" Url="html/fec19caa-5c3c-29e1-528a-dbd6beb40817.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int32, TSourceAggregates))" Url="html/91a7d23a-b0ad-8283-c5eb-61cc86ebae7e.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Int64, TSourceAggregates))" Url="html/1dd18d98-bd00-4329-03d6-f673a29f6031.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Decimal), TSourceAggregates))" Url="html/44664829-24a5-c1e3-3aa4-7e66db69ef48.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Double), TSourceAggregates))" Url="html/d3f53757-ae6a-133b-89a5-52f4c92b25fd.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int32), TSourceAggregates))" Url="html/99d9aa30-602d-981b-1ca2-77f459dbf918.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Int64), TSourceAggregates))" Url="html/50a7a3ba-d5d5-c491-70ff-c18211d14a6b.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Nullable(Single), TSourceAggregates))" Url="html/8c8a066b-93bd-f835-941f-1a58d9b167dd.htm" />
+          <HelpTOCNode Title="Sum(TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(Single, TSourceAggregates))" Url="html/24e1c2fd-c45c-8979-163f-3eb88f68e05c.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Decimal))" Url="html/02ab6706-ba4e-e28f-ba3a-6ef9db3d1119.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Double))" Url="html/063a1fe3-98bf-f3b5-e3bf-2eab06accdf2.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int32))" Url="html/fad48c5d-fbcf-19b4-6650-ff60d75369de.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Int64))" Url="html/84728f2b-1bb2-9b2e-2edf-ef02d4a4b69e.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Decimal)))" Url="html/bfad4177-5850-9ec8-b42e-32a9dbcc144b.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Double)))" Url="html/70e7f837-235c-691a-c4cc-c6fc4b65c015.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int32)))" Url="html/a478d90a-d4cc-0186-a62c-272ccd2bc1f8.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Int64)))" Url="html/51d4bd5b-308a-c62d-b307-1946d28c95eb.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Nullable(Single)))" Url="html/e62bd7d8-7c82-6bbf-8ecd-c8c6d0c5824f.htm" />
+          <HelpTOCNode Title="Sum(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateEnumerable(TSource, TSourceAggregates), Func(TSource, Single))" Url="html/1f959040-d80e-dcff-e5e7-50c065d2fc81.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c4229c09-2be1-45d4-b43b-38a56431cf49" Title="Where Method " Url="html/5d379918-9d2c-bbb0-d324-410cc02a608e.htm">
+          <HelpTOCNode Title="Where(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateFunction(TSource, TSourceAggregates), Func(TSource, Boolean))" Url="html/4cb21a29-cd83-26fb-a915-694903c0791c.htm" />
+          <HelpTOCNode Title="Where(TSource, TSourceAggregates) Method (WindowExtension.IWindowAggregateFunction(TSource, TSourceAggregates), Func(TSource, Int32, Boolean))" Url="html/0f471ed4-b382-ec4a-6ddb-9c340598df77.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="756836c9-8816-4714-adc8-5360688dceb2" Title="Window Method " Url="html/750ee2f5-5439-a230-244e-274f67b1ab07.htm">
+          <HelpTOCNode Title="Window(TSource) Method (IEnumerable(TSource), Func(Int32, Boolean), Func(Int32, Boolean))" Url="html/de21174f-261b-f585-a675-4916cf28612f.htm" />
+          <HelpTOCNode Title="Window(TSource) Method (IEnumerable(TSource), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean))" Url="html/5e36dc14-1f0d-2348-6175-f103d042883b.htm" />
+          <HelpTOCNode Title="Window(TSource, TResult) Method (IEnumerable(TSource), Func(Int32, Boolean), Func(Int32, Boolean), Func(TSource, IEnumerable(TSource), TResult))" Url="html/7634239e-aa94-1223-a4e2-08d548bc4ee9.htm" />
+          <HelpTOCNode Title="Window(TSource, TResult) Method (IEnumerable(TSource), Func(Int32, Boolean), Func(Int32, Boolean), Func(TSource, Int32, IEnumerable(TSource), TResult))" Url="html/c92b9d6c-6b24-63ab-1103-4d51b2cb4fb7.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(Int32, Boolean), Func(Int32, Boolean))" Url="html/8473c8ce-098e-589e-9913-89d9a14c80a9.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean))" Url="html/9a983bfd-fd25-3b75-c09e-c575adf1e9e6.htm" />
+          <HelpTOCNode Title="Window(TSource, TResult) Method (IEnumerable(TSource), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean), Func(TSource, IEnumerable(TSource), TResult))" Url="html/9801fcbf-d09f-045a-27b6-5c1d5417c0f2.htm" />
+          <HelpTOCNode Title="Window(TSource, TResult) Method (IEnumerable(TSource), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean), Func(TSource, Int32, IEnumerable(TSource), TResult))" Url="html/b3e9e817-f723-0514-2a42-d8b736f83d3a.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(Int32, Boolean), Func(Int32, Boolean))" Url="html/c9d5284f-5408-6378-0a9a-5977892cd912.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean))" Url="html/0240b993-cab3-cb23-9340-a954f308fb6b.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(Int32, Boolean), Func(Int32, Boolean), Func(TSource, IEnumerable(TSource), TResult))" Url="html/00831c9a-94e6-7c69-0e17-ed444d884745.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(Int32, Boolean), Func(Int32, Boolean), Func(TSource, Int32, IEnumerable(TSource), TResult))" Url="html/2f1879e1-3e43-e49e-e283-419cf2c6fddf.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean), Func(TSource, IEnumerable(TSource), TResult))" Url="html/57d4392f-e1d5-00a6-faee-9015492488f7.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean), Func(TSource, Int32, IEnumerable(TSource), TResult))" Url="html/546e2eeb-dbc9-6f27-2c3a-fefa8aa9589a.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(Int32, Boolean), Func(Int32, Boolean), Func(TSource, IEnumerable(TSource), TResult))" Url="html/2ea79836-9aec-e953-d914-e9f825e8cc2b.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(Int32, Boolean), Func(Int32, Boolean), Func(TSource, Int32, IEnumerable(TSource), TResult))" Url="html/32302375-093b-bc4e-8fcf-9afde25eceb5.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean), Func(TSource, IEnumerable(TSource), TResult))" Url="html/e054eca7-1422-2532-f1b2-32a28acb5ef0.htm" />
+          <HelpTOCNode Title="Window(TSource, TPartitionKey, TResult) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(TSource, TSource, Int32, Boolean), Func(TSource, TSource, Int32, Boolean), Func(TSource, Int32, IEnumerable(TSource), TResult))" Url="html/641e2a35-a2e4-3c10-454a-c616d48f69fc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b178f125-2012-4dae-99ba-9cf139b7a4b6" Title="WindowUnbounded Method " Url="html/585966a9-3469-d497-ab92-3c231653efe3.htm">
+          <HelpTOCNode Title="WindowUnbounded(TSource) Method (IEnumerable(TSource))" Url="html/7e529d75-97ca-11d9-cee9-d0d92d5d3967.htm" />
+          <HelpTOCNode Title="WindowUnbounded(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey))" Url="html/7e67293c-cdeb-4a0d-7d9a-8fc8c4d8099b.htm" />
+          <HelpTOCNode Title="WindowUnbounded(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey))" Url="html/e5c8fb9f-974c-2879-85be-c30c76f4142a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="aa41c146-d4fe-4e3b-b13e-b3086220457e" Title="WindowUnboundedFollowing Method " Url="html/af3c6258-e8af-c087-faf2-9727c59cc72e.htm">
+          <HelpTOCNode Title="WindowUnboundedFollowing(TSource) Method (IEnumerable(TSource), Func(Int32, Boolean))" Url="html/27a0d1a0-c425-6847-18c0-672f8726251e.htm" />
+          <HelpTOCNode Title="WindowUnboundedFollowing(TSource) Method (IEnumerable(TSource), Func(TSource, TSource, Int32, Boolean))" Url="html/a3a4fe8a-d1a5-e861-70c9-7568d489e4cf.htm" />
+          <HelpTOCNode Title="WindowUnboundedFollowing(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(Int32, Boolean))" Url="html/78eeeea2-94cf-1599-7025-890dc5f176fe.htm" />
+          <HelpTOCNode Title="WindowUnboundedFollowing(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(TSource, TSource, Int32, Boolean))" Url="html/864bc9e6-4b29-c21f-25bd-c4efb4bb950a.htm" />
+          <HelpTOCNode Title="WindowUnboundedFollowing(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(Int32, Boolean))" Url="html/459f5cc9-7a3b-4275-7ac5-e3c359a4f652.htm" />
+          <HelpTOCNode Title="WindowUnboundedFollowing(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(TSource, TSource, Int32, Boolean))" Url="html/14f06031-7520-5dd4-74f1-464ea085d2bd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1eb280ed-2225-4b33-b0ac-8394d6062879" Title="WindowUnboundedPreceding Method " Url="html/ccc95c81-b154-c228-b7b1-732db1dbec1b.htm">
+          <HelpTOCNode Title="WindowUnboundedPreceding(TSource) Method (IEnumerable(TSource), Func(Int32, Boolean))" Url="html/da893b4b-ed45-3b6c-cc8e-58c0d372a65e.htm" />
+          <HelpTOCNode Title="WindowUnboundedPreceding(TSource) Method (IEnumerable(TSource), Func(TSource, TSource, Int32, Boolean))" Url="html/81240e8d-beea-0d8a-cede-0152ed64880e.htm" />
+          <HelpTOCNode Title="WindowUnboundedPreceding(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(Int32, Boolean))" Url="html/5af61c86-2246-04bb-ccb2-fd647f5cc141.htm" />
+          <HelpTOCNode Title="WindowUnboundedPreceding(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), Func(TSource, TSource, Int32, Boolean))" Url="html/86db74b4-3855-4778-5971-dd9b1d5e9002.htm" />
+          <HelpTOCNode Title="WindowUnboundedPreceding(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(Int32, Boolean))" Url="html/06d17f32-aa97-6489-736e-da0e73e57a95.htm" />
+          <HelpTOCNode Title="WindowUnboundedPreceding(TSource, TPartitionKey) Method (IEnumerable(TSource), Func(TSource, TPartitionKey), IEqualityComparer(TPartitionKey), Func(TSource, TSource, Int32, Boolean))" Url="html/91ad40df-be4f-bae1-6aa2-c943486cdb82.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="748cfa1b-a5a3-4413-9ba9-61aabaead84a" Title="WindowExtension.IWindowAggregateEnumerable(TElement, TAggregates) Interface" Url="html/c1c1d710-de63-2635-049b-c8070dba0392.htm">
+      <HelpTOCNode Title="WindowExtension.IWindowAggregateEnumerable(TElement, TAggregates) Members" Url="html/b0ad13f9-f521-6212-461b-2b4df033b6ad.htm" />
+      <HelpTOCNode Id="6ddddab6-ce72-4864-83d0-0a6224f50209" Title="WindowExtension.IWindowAggregateEnumerable(TElement, TAggregates) Methods" Url="html/6ebc55ff-4879-8f1b-3b63-a0c9578b42bf.htm">
+        <HelpTOCNode Title="GetDefault Method " Url="html/0873a92c-c0da-b0f4-6759-e8167e8f3bfd.htm" />
+        <HelpTOCNode Id="c29854fe-410a-401b-9bf0-71abe1443df4" Title="GetEnumerator Method " Url="html/fcb9aa00-ceaa-2411-8ff1-dd0d18c2e88e.htm">
+          <HelpTOCNode Title="GetEnumerator Method (Action(TElement, Int32), Action(TElement, Int32), Action, Func(TElement, Int32, Boolean))" Url="html/2cf19876-d3c4-2777-70d6-04345854eafc.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e1c2dcf9-0e70-4739-ac8a-5ddc6344b7ca" Title="WindowExtension.IWindowAggregateFunction(TElement, TAggregates) Interface" Url="html/d9c48f4e-66e3-c76e-396f-8ef46bd103cf.htm">
+      <HelpTOCNode Title="WindowExtension.IWindowAggregateFunction(TElement, TAggregates) Members" Url="html/5bbdfff9-5ddf-91b8-914e-6f3f1c4249ff.htm" />
+      <HelpTOCNode Id="01949de1-7288-4c59-a98f-7f2d91a5c609" Title="WindowExtension.IWindowAggregateFunction(TElement, TAggregates) Methods" Url="html/ed8b4ac3-b1b3-d34b-0bbb-c0579d406f27.htm">
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/138858bb-8d30-21ce-8fdf-99966e70af08.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
