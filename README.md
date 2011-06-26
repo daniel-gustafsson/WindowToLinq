@@ -1,4 +1,4 @@
-﻿# Window To LINQ
+# Window To LINQ
 
 Window To LINQ is a library of extension functions for .NET.
 
