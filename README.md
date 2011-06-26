@@ -77,7 +77,7 @@ This example is the same as the first one, but with the count and sum functions 
 
 Not all aggregates can easily be decumulated. `Min` and `Max` are examples and they will throw `InvalidOperationsException` if used on a moving window where decumulation is necessary.
 
-The `Average`, `Min` and `Max` functions behaves differently compared to the standard LINQ operators when applied to empty sequences. Instead of throwing, they return a default value of the type operated on. The rationale behind this is that window with boundaries that sometimes result in an empty window on some source elements might be useful and better to allow than result in the iteration aborted in error.
+The `Average`, `Min` and `Max` functions behaves differently compared to the standard LINQ operators when applied to empty sequences. Instead of throwing, they return a default value of the type operated on. The rationale behind this is that a window with boundaries that sometimes result in an empty window on some source elements might be useful. Therefore I find it better to allow the window iteration to continue than being aborted in error.
 
 So what is the point of this alterative window syntax if there are only restrictions compared to just using a selector as an argument to the window? Well, it mostly has to do with performance. The window sequence never has to be iterated on separately for each aggregate performed. For a large window with many aggregates (or expensive to compute), this might make a difference. With a moving window, the whole of the window has to be buffered so there is no memory savings in the general case. The real point of this special window though is an optimization that is used if you start the window with the `WindowUnboundedPreceding` function. It has the semantics as a window with a preceding bound functions returning true on all inputs. Since the start of the window never moves forward (except on a partition boundary but then all aggregates are reset), no buffering is needed for elements before the current row, or window end whichever comes first (the window can end before the current row or start after the current row).
 
@@ -106,7 +106,7 @@ var expected = new int[] { 0, 0, 0, 0, 0, 1, 1, 1, 1, 1 };
 
 ```
 
-Incidentally the last row of a window with no preceding bound happens to include the total aggregates on the whole sequence. Since the standard LINQ operators does not include a simple way of calculating multiple aggregates without iterating multiple times on the sequence I find this quite useful (as an alternative to for example [Push LINQ)( http://msmvps.com/blogs/jon_skeet/archive/2008/01/04/quot-push-quot-linq-revisited-next-attempt-at-an-explanation.aspx)).
+Incidentally the last row of a window with no preceding bound happens to include the total aggregates on the whole sequence. Since the standard LINQ operators does not include a simple way of calculating multiple aggregates without iterating multiple times on the sequence I find this quite useful (as an alternative to for example [Push LINQ]( http://msmvps.com/blogs/jon_skeet/archive/2008/01/04/quot-push-quot-linq-revisited-next-attempt-at-an-explanation.aspx)).
 
 ```c#
 var result = Enumerable.Range(1, 10)
