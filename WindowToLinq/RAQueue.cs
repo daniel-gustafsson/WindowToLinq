@@ -10,7 +10,7 @@ namespace WindowToLinq
     /// </summary>
     /// <remarks>
     /// A regular queue with random access functionality.
-    /// Externa indexes into the queue are of the absolute value of the element added to the queue.
+    /// External indexes into the queue are of the absolute value of the element added to the queue.
     /// This means the indexes can be much larger than the number of current elements in the queue.
     /// The indexes wrap around to zero after reaching UInt32.MaxValue.
     /// </remarks>
@@ -119,7 +119,7 @@ namespace WindowToLinq
         }
 
         /// <summary>
-        /// Dequeues the first element of th equeue.
+        /// Dequeues the first element of the queue.
         /// </summary>
         /// <returns>The dequeued element.</returns>
         public T Dequeue()
